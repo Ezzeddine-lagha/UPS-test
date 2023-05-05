@@ -1,0 +1,12 @@
+{
+  
+  "dependencies": {
+    "cypress": "^12.11.0"
+  },
+  "scripts": {
+    "cy:open:mob": "cypress open --e2e --browser=chrome --env device=mob",
+    "cy:open:web": "cypress open --e2e --browser=chrome --env device=web",
+    "cy:run:mob": "cypress run --browser=chrome --env device=mob",
+    "cy:run:web": "cypress run --env device=web"
+    
+  }}
