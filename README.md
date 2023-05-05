@@ -16,7 +16,7 @@ Test technique
 
 Depuis le terminal, dans le dossier developpement, lancer les commandes: 
 
-    $ git clone master https://github.com/Ezzeddine-lagha/UPS-test.git
+    $ git clone https://github.com/Ezzeddine-lagha/UPS-test.git
     $ cd UPS-test
 
 ### 2- Lancer le projet :
